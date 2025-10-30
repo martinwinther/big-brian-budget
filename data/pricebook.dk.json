@@ -1,0 +1,16 @@
+{
+  "meta": { "currency": "DKK", "updated": "2025-10-01" },
+  "units": {
+    "g_per_pc": { "Lemon": 100, "Garlic": 6 },
+    "g_per_ml": { "EVOO": 0.91 }
+  },
+  "items": {
+    "Whole-wheat spaghetti": { "unit": "kg", "price": 15.0 },
+    "Canned mackerel in tomato": { "unit": "g", "price": 0.07 },
+    "Frozen spinach": { "unit": "kg", "price": 16.0 },
+    "Garlic": { "unit": "pc", "price": 1.0 },
+    "EVOO": { "unit": "l", "price": 90.0 },
+    "Lemon": { "unit": "pc", "price": 3.0 }
+  }
+}
+
